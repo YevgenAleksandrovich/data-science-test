@@ -36,6 +36,7 @@ else:
     print("\n✅ All dependencies are already installed!")
 
 print("\nYou can now run:")
+print("\nYou can now run:")
 print("  python run_all.py")
 print("  python task1_mnist_advanced/run_task1.py")
 print("  python task2_animal_pipeline/run_task2.py")
