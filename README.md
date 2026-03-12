@@ -4,7 +4,7 @@
 
 ```bash
 # 1. Clone repository
-git clone <your-repo>
+git clone https://github.com/YevgenAleksandrovich/data-science-test.git
 cd winstars_ds_internship
 
 # 2. Create virtual environment (recommended)
